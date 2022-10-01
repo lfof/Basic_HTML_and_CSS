@@ -1,0 +1,26 @@
+h1 {
+		color:darkblue;
+		text-align: center;
+		text-decoration: underline;
+		text-shadow: 1px 2px slategray;
+}
+
+ol {
+		color:DimGray;
+		text-align:left;
+		list-style-type: upper-roman;
+}
+
+ul {
+		list-style-type: square;
+		color:indianred;
+		text-align:left;
+	
+}
+p {
+		color:aliceblue;
+		text-align:left;
+		text-decoration:underline;
+		font-weight:bold;
+}
+
