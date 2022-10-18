@@ -307,7 +307,7 @@ HOME SECTION STYLES
     text-decoration: underline;
 }
 
-.submit input[type="submit"]:hover {
+.submit input[type="submit"] {
     color: rgb(255, 255, 255);
     cursor: pointer;
     border: none;
