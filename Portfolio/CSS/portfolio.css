@@ -214,6 +214,15 @@ footer {
     width: 100%; /* The width of the images is automatically adjusted based on the content */
 }
 
+/* Slideshow section / container */
+#Slideshow_Container {
+    width: 39.5vw; /* this sets the width of the container */
+    height: auto;
+    padding-top: 4%;
+    position: relative;
+    margin: auto;
+}
+
 .Previous, .Next {
     cursor: pointer; /* Changes the mouse to a pointer when the buttons are selected */
     position: absolute; /* This makes the next and previous buttons positioned relative to the slideshow container */
